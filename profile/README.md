@@ -1,12 +1,34 @@
-## Hi there 👋
+## 주제
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- [ ] 소셜로그인
+  - OAuth 2.0
+  - JWT
+  - 세션, 쿠키
+- [ ] 미니 WAS, HTTP
+  - Request
+  - Response
+  - Socket
+- [ ] 간단 채팅
+  - WebSocket
+  - STOMP
+  - Pub/Sub
+- [ ] 알림시스템
+  - 이벤트 처리
+  - 비동기 처리
+  - 성능 최적화
+- [ ] Shorten URL
+  - Hashing
+  - HTTP 리디렉션
+  - 악성 URL, CSRF
+- [ ] REST API 호출기
+  - REST API 설계 원칙
+  - HTTP Method/Header
+  - TEST
+- [ ] 공공정보 수집/가공
+  - 스크래핑
+  - 데이터 처리/정제
+  - 데이터 인사이트 확장
+- [ ] Key/Value Store
+  - 데이터 구조
+  - 동시성 제어
+  - 캐싱
